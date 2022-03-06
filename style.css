@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+
+}
+body{
+    padding: 5%;
+    background-image: url('img/pattern.png');
+    font-family: monospace;
+}
+.holder {
+    border: 1 solid;
+    margin: 5px;
+    width: 150%;
+    height: auto;
+    border-radius: 1em;
+}
+
+.container {
+    display: flex;
+   
+
+}
+.img {
+
+   max-width: 100%;
+   object-fit: cover;
+   height: max-content;
+   border-radius: 1em;
+
+}
